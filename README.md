@@ -1,6 +1,6 @@
 # .\hello Framework
 
-This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
+This is an [Observable Frameworker](https://observablehq.com/framework/) app. To install the required dependencies, run:
 
 ```
 npm install
